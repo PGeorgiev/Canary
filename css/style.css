@@ -749,3 +749,58 @@ Created by Daniel Bruce, http://danielbruce.se/
 .icon-behance:before {
 	content: "\e61c";
 }
+
+
+/* Custom code added button */
+.content-primary .section-footer .button {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 160px;
+}
+.button-primary {
+    background-color: #2ad2c9;
+    color: #fff;
+}
+.button {
+    background-color: transparent;
+    background-image: none;
+    display: inline-block;
+    padding: 12px;
+    border-width: 0;
+    border-style: solid;
+    border-color: transparent;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 2;
+    vertical-align: middle;
+    white-space: nowrap;
+    text-transform: uppercase;
+    text-rendering: auto;
+    text-align: center;
+    cursor: pointer;
+    -webkit-transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    -moz-transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    -ms-transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    -o-transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+button, select {
+    text-transform: none;
+}
+button {
+    border: 0;
+    overflow: visible;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    outline: 0;
+    font: inherit;
+    color: inherit;
+}

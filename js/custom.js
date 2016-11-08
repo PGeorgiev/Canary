@@ -1,7 +1,7 @@
 /*
 Template: Canary
 Author: Canary - Coming Soon Template
-Author URL: http://Codemydesign.ru;
+Author URL: http://maxds.eu/themes/Canary-html;
 Version: 1.0
 */
 

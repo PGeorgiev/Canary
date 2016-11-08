@@ -91,7 +91,7 @@ text-transform: uppercase;
 }
 
 h1 {
-	font-size: 32px;
+	font-size: 22px;
 }
 
 h2 {
@@ -804,3 +804,4 @@ button, input, optgroup, select, textarea {
     font: inherit;
     color: inherit;
 }
+

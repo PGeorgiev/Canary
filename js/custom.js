@@ -1,6 +1,6 @@
 /*
-Template: CMDSpace
-Author: CMDSpace - Coming Soon Template
+Template: Canary
+Author: Canary - Coming Soon Template
 Author URL: http://Codemydesign.ru;
 Version: 1.0
 */
@@ -10,7 +10,7 @@ Version: 1.0
 (function(jQuery){
 
 // Fade on load.
-// Here you can see all sections and elements which you can animate in our CMDSpace coming soon template.
+// Here you can see all sections and elements which you can animate in our Canary coming soon template.
 jQuery(window).load(function(){
 		setTimeout(function(){
 			jQuery('#loverlay-content').fadeOut(400, function(){
@@ -20,17 +20,17 @@ jQuery(window).load(function(){
 });
 
 // Animation on ready.
-// Here you can see all sections and elements which you can animate in our CMDSpace coming soon template.
+// Here you can see all sections and elements which you can animate in our Canary coming soon template.
 // Use animate.css classes to add cool animations! Example: try to change 'bounceInDown' to 'bounceInLeft'.
 // Notice: don't change setTimeout parameter.
 jQuery(window).ready(function(){
 
 	setTimeout(function(){
-  	jQuery('.inner-header').addClass('animated slideInUp');
+  	jQuery('.inner-header').addClass('animated bounceInDown');
   	}, 500); 
 
 	setTimeout(function(){
-  	jQuery('.section-title').addClass('animated slideInUp'); 
+  	jQuery('.section-title').addClass('animated bounceInDown'); 
   	}, 450);
 	
 	setTimeout(function(){
@@ -52,7 +52,7 @@ jQuery(window).ready(function(){
 })	
 
 // Modal window animation .
-// Here you can see all modal window sections and elements which you can animate in our CMDSpace coming soon template.
+// Here you can see all modal window sections and elements which you can animate in our Canary coming soon template.
 // Use animate.css classes to add cool animations! Example: try to change 'bounceInDown' to 'bounceInLeft'.
 // Notice: don't change setTimeout parameter.
 jQuery(window).ready(function(){

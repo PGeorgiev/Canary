@@ -7,6 +7,7 @@ Version: 1.0
 
 /* Reset
 -------------------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif');
 article,
 aside,
 details,
@@ -750,4 +751,11 @@ Created by Daniel Bruce, http://danielbruce.se/
 	content: "\e61c";
 }
 
+
+.test-logo {
+	color: white;
+	font-family: 'Droid Serif', serif;
+	font-size: 40px;
+	cursor: pointer;
+}
 

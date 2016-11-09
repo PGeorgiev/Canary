@@ -485,6 +485,7 @@ margin-bottom: 60px;
 
 #clock {
 margin-bottom: 60px;
+border-bottom: 1px solid white;
 }
 
 .countdown_row {
@@ -504,7 +505,6 @@ width: 25%;
 -moz-box-sizing: border-box;
 box-sizing: border-box;
 font-weight: 500;
-
 }
 
 .countdown_section:first-child {
@@ -528,6 +528,10 @@ max-width: 400px;
 
 #subscribe-form {
 	position: relative;
+	border: 12px solid white;
+	border-bottom: 0;
+	border-top: 0;
+	border-right: 0;
 }
 
 #subscribe-form .form-field {

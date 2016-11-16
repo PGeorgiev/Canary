@@ -376,12 +376,11 @@ text-transform: uppercase;
 	opacity: 0.4;
 	text-decoration: none;
 	position: absolute;
-	/*bottom: 580px;
-	right: -140px;*/
 	width: 84px;
-	text-align:right;
 	border-top: 1px solid white;
 	border-bottom: 1px solid white;
+	border-left: 1px solid white;
+	border-right: 1px solid white;
 }
 
 .subtitle a#modal_window-open:hover {

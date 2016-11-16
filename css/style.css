@@ -277,19 +277,17 @@ box-sizing: border-box;
 /* Forms */
 input,
 textarea {
-background: rgba(0,0,0, 0.8);
-background: rgba(0,0,0, 0.5);
-border: none;
-color: #fff;
-font-weight: 300;
-letter-spacing: 1px;
-padding: 12px;
-text-transform: uppercase;
-border-radius: 5px;
--moz-border-radius: 5px;
--webkit-border-radius: 5px;
--o-border-radius: 5px;
-font-size: 12px;
+	border: none;
+	color: #fff;
+	font-weight: 300;
+	letter-spacing: 1px;
+	padding: 12px;
+	text-transform: uppercase;
+	font-size: 12px;
+	width: 100%;
+	border-bottom: 1px solid white;
+	background: transparent;
+	margin-bottom: 1.5rem
 }
 
 input:focus,

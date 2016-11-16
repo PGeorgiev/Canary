@@ -370,17 +370,24 @@ letter-spacing: 1px;
 margin: 25px 0;
 text-align: center;
 text-transform: uppercase;
+padding: 25px;
 }
 
 .subtitle a#modal_window-open {
 	opacity: 0.4;
 	text-decoration: none;
-	position: absolute;
+	position: relative;
 	width: 84px;
-	border-top: 1px solid white;
-	border-bottom: 1px solid white;
-	border-left: 1px solid white;
-	border-right: 1px solid white;
+	text-decoration: none;
+    color: #FFF ;
+    border: 2px solid #FFF;
+    padding: 0.65em 1.7em;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 2px;
+    transition: all 0.6s ease 0s;
+    padding-bottom: 5px;
+    cursor: pointer;
 }
 
 .subtitle a#modal_window-open:hover {

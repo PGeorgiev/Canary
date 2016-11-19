@@ -783,3 +783,7 @@ Created by Daniel Bruce, http://danielbruce.se/
 .icon-facebook:hover {
 	color: #3b5998;
 }
+
+.section-title:hover {
+	cursor: pointer;
+}

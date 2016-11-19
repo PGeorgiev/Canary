@@ -2,7 +2,7 @@
 Template: Canary
 Author: Canary - Coming Soon Template
 Author URL: http://maxds.eu/themes/Canary-html;
-Version: 1.0
+Version: 1.1
 */
 
 
@@ -58,11 +58,11 @@ jQuery(window).ready(function(){
 jQuery(window).ready(function(){
 
 	setTimeout(function(){
-  	jQuery('.one-half:first-child').addClass('animated bounceInLeft');
+  	jQuery('.one-half:first-child').addClass('animated bounceInDown');
   	}, 350); 
 
   	setTimeout(function(){
-  	jQuery('.one-half:last-child').addClass('animated bounceInRight');
+  	jQuery('.one-half:last-child').addClass('animated bounceInDown');
   	}, 200); 
 
 });

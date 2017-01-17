@@ -97,7 +97,7 @@ jQuery.backstretch('images/bg3.jpg');
 
 // Default start day - 2 May, 2014 (Day when CodeMyDesign founder was born :)).
 // Change the start_day value.
-var start_day = new Date(2016, 15-1, 9);
+var start_day = new Date(2016, 21-1, 9);
 jQuery('#clock').countdown({
 until: start_day
 });

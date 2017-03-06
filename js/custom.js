@@ -95,7 +95,7 @@ jQuery('input, textarea').placeholder();
 // Upload files in images folder and write here name of your image.
 jQuery.backstretch('images/bg3.jpg');
 
-// Default start day - 2 May, 2014 (Day when CodeMyDesign founder was born :)).
+// Default start day - 2 May, 2014 ).
 // Change the start_day value.
 var start_day = new Date(2017, 15-1, 8);
 jQuery('#clock').countdown({

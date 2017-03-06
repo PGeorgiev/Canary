@@ -27,29 +27,29 @@ jQuery(window).ready(function(){
 
 	setTimeout(function(){
   	jQuery('.inner-header').addClass('animated bounceInDown');
-  	}, 500); 
+  	}, 500);
 
 	setTimeout(function(){
-  	jQuery('.section-title').addClass('animated bounceInDown'); 
+  	jQuery('.section-title').addClass('animated bounceInDown');
   	}, 450);
-	
+
 	setTimeout(function(){
-  	jQuery('#clock').addClass('animated bounceInDown'); 
+  	jQuery('#clock').addClass('animated bounceInDown');
   	}, 400);
 
 	setTimeout(function(){
-  	jQuery('.subtitle').addClass('animated bounceInDown'); 
+  	jQuery('.subtitle').addClass('animated bounceInDown');
   	}, 350);
 
 	setTimeout(function(){
-  	jQuery('#subscribe').addClass('animated bounceInDown'); 
+  	jQuery('#subscribe').addClass('animated bounceInDown');
   	}, 250);
 
 	setTimeout(function(){
-  	jQuery('.social').addClass('animated bounceInDown'); 
+  	jQuery('.social').addClass('animated bounceInDown');
   	}, 200);
 
-})	
+})
 
 // Modal window animation .
 // Here you can see all modal window sections and elements which you can animate in our Canary coming soon template.
@@ -59,11 +59,11 @@ jQuery(window).ready(function(){
 
 	setTimeout(function(){
   	jQuery('.one-half:first-child').addClass('animated bounceInDown');
-  	}, 350); 
+  	}, 350);
 
   	setTimeout(function(){
   	jQuery('.one-half:last-child').addClass('animated bounceInDown');
-  	}, 200); 
+  	}, 200);
 
 });
 
@@ -92,12 +92,12 @@ jQuery(document).ready( function(){
 jQuery('input, textarea').placeholder();
 
 // Change background image.
-// Upload files in images folder and write here name of your image. 
+// Upload files in images folder and write here name of your image.
 jQuery.backstretch('images/bg3.jpg');
 
 // Default start day - 2 May, 2014 (Day when CodeMyDesign founder was born :)).
 // Change the start_day value.
-var start_day = new Date(2016, 21-1, 9);
+var start_day = new Date(2017, 15-1, 8);
 jQuery('#clock').countdown({
 until: start_day
 });
@@ -134,5 +134,5 @@ jQuery('<div class="success"></div>').hide().appendTo('.form-wrap');
 			}
 	});
 });
-	
+
 })(jQuery);

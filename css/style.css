@@ -774,18 +774,3 @@ Created by Daniel Bruce, http://danielbruce.se/
 .text-logo:hover {
 	opacity: 0.5;
 }
-
-
-/* Social icon colors hover effect*/
-.icon-twitter:hover {
-	// content: "\e607";
-	color: #55acee;
-}
-
-.icon-facebook:hover {
-	color: #3b5998;
-}
-
-.section-title:hover {
-	cursor: pointer;
-}

@@ -194,7 +194,7 @@ textarea {
 
 .section-title:after {
 border-bottom: 1px solid #fff;
-content: "";
+content: "/Creative/";
 display: block;
 margin-bottom: 50px;
 margin-left: auto;

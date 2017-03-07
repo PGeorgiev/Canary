@@ -768,6 +768,9 @@ Created by Daniel Bruce, http://danielbruce.se/
 	font-size: 40px;
 	cursor: pointer;
 	font-style: italic;
+	border: 1px solid white;
+	margin-left: 225px;
+	margin-right: 240px;
 }
 
 

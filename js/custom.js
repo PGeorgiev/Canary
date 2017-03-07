@@ -62,7 +62,7 @@ jQuery(window).ready(function(){
   	}, 350);
 
   	setTimeout(function(){
-  	jQuery('.one-half:last-child').addClass('animated bounceInDown');
+  	jQuery('.one-half:last-child').addClass('animated zoomIn');
   	}, 200);
 
 });

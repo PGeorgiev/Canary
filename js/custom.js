@@ -53,7 +53,7 @@ jQuery(window).ready(function(){
 
 // Modal window animation .
 // Here you can see all modal window sections and elements which you can animate in our Canary coming soon template.
-// Use animate.css classes to add cool animations! Example: try to change 'bounceInDown' to 'bounceInLeft'.
+// Use animate.css classes to add cool animations! Example: try to change 'bounceInLeft' to 'bounceInDown'.
 // Notice: don't change setTimeout parameter.
 jQuery(window).ready(function(){
 

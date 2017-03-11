@@ -73,7 +73,7 @@ a {
 }
 a:focus,
 a:hover {
-  color: #C53131;
+  color: #5bdab8;
   text-decoration: none;
 }
 
@@ -106,7 +106,7 @@ sidebar
 }
 
 .sidebar-nav li.active>a{
-  color: #fc5151;
+  color: #5bdab8;
 }
 
 .sidebar-nav .nav {
@@ -119,7 +119,7 @@ sidebar
 }
 
 .nav>li>a:focus, .nav>li>a:hover {
-  color: #ff6c6c;
+  color: #5bdab8;
   background-color: transparent;
 }
 
@@ -151,7 +151,7 @@ doc section
 }
 
 .danger {
-  background: #ec6a6a;
+  background: #5bdab8;
 }
 
 .success {

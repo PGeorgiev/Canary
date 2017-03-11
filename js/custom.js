@@ -1,7 +1,7 @@
 /*
 Template: Canary
 Author: Canary - Coming Soon Template
-Author URL: http://maxds.eu/themes/Canary-html;
+Author URL: http://wphero.eu/themes/Canary-html;
 Version: 1.1
 */
 
@@ -26,27 +26,27 @@ jQuery(window).load(function(){
 jQuery(window).ready(function(){
 
 	setTimeout(function(){
-  	jQuery('.inner-header').addClass('animated bounceInDown');
+  	jQuery('.inner-header').addClass('animated bounceInLeft');
   	}, 500);
 
 	setTimeout(function(){
-  	jQuery('.section-title').addClass('animated bounceInDown');
+  	jQuery('.section-title').addClass('animated bounceInLeft');
   	}, 450);
 
 	setTimeout(function(){
-  	jQuery('#clock').addClass('animated bounceInDown');
+  	jQuery('#clock').addClass('animated bounceInLeft');
   	}, 400);
 
 	setTimeout(function(){
-  	jQuery('.subtitle').addClass('animated bounceInDown');
+  	jQuery('.subtitle').addClass('animated bounceInLeft');
   	}, 350);
 
 	setTimeout(function(){
-  	jQuery('#subscribe').addClass('animated bounceInDown');
+  	jQuery('#subscribe').addClass('animated bounceInLeft');
   	}, 250);
 
 	setTimeout(function(){
-  	jQuery('.social').addClass('animated bounceInDown');
+  	jQuery('.social').addClass('animated bounceInLeft');
   	}, 200);
 
 })
@@ -58,11 +58,11 @@ jQuery(window).ready(function(){
 jQuery(window).ready(function(){
 
 	setTimeout(function(){
-  	jQuery('.one-half:first-child').addClass('animated bounceInDown');
+  	jQuery('.one-half:first-child').addClass('animated bounceInLeft');
   	}, 350);
 
   	setTimeout(function(){
-  	jQuery('.one-half:last-child').addClass('animated zoomIn');
+  	jQuery('.one-half:last-child').addClass('animated bounceInLeft');
   	}, 200);
 
 });

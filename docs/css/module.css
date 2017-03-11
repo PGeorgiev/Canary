@@ -1,0 +1,6 @@
+.syntaxhighlighter {
+  overflow-x: auto !important;
+  overflow-y: hidden !important;
+  border: 1px solid #eee;
+  padding: 10px 0;
+}

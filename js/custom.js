@@ -48,7 +48,6 @@ jQuery(window).ready(function(){
 	setTimeout(function(){
   	jQuery('.social').addClass('animated bounceInLeft');
   	}, 200);
-
 })
 
 // Modal window animation .

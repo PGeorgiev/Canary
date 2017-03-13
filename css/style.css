@@ -192,9 +192,9 @@ textarea {
 -------------------------------------------------*/
 /* Clearing floats */
 
-.section-title:after {
+/*.section-title:after {
 border-bottom: 1px solid #fff;
-content: "/Creative/";
+content: "";
 display: block;
 margin-bottom: 50px;
 margin-left: auto;
@@ -203,7 +203,7 @@ position: relative;
 top: 20px;
 width: 130px;
 z-index: 0;
-}
+}*/
 
 .row:after {
 	clear: both;
